@@ -19,6 +19,8 @@ Setiap kali burung berhasil melewati sepasang pipa tanpa menabrak, skor pemain a
 
 Dokumentasi
 
-!(dokumentasi/flappybird.png)
-!(dokumentasi/flappybird2.png)
-!(dokumentasi/flappymenu.png)
+ (dokumentasi/flappybird.png.png)
+ 
+ (dokumentasi/flappybird2.png.png)
+ 
+ (dokumentasi/flappymenu.png.png)
